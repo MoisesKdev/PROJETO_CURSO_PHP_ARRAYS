@@ -4,11 +4,11 @@ Neste repositório armazenei todo meu conhecimento em um projeto que fiz com o c
 
 ## ***Para Executar***
 
->> Tenha o PHP instalado em sua maquina Linux ou Windows;
->> Execute o GIT CLONE;
->> No terminal digite : php -S localhost:3000;
->> Vá em seu navegador e digite o seguinte em barra de pesquisa:
-<h2>localhost:3000/banco.php</h2>
+**Tenha o PHP instalado em sua maquina Linux ou Windows;**
+**Execute o GIT CLONE;**
+**No terminal digite : php -S localhost:3000;**
+**Vá em seu navegador e digite o seguinte em barra de pesquisa:**
+<h3>localhost:3000/banco.php</h3>
 
 ***Neste curso aprendi*** :
 
