@@ -1,6 +1,6 @@
 <?php 
 // Parámetros para cálculo do IMC
-$peso = 88;
+$peso = 80;
 $altura = 1.82;
 
 //Define o valor do IMC
